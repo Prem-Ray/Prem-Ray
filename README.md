@@ -1,3 +1,4 @@
+![logo](banner.jpg)
 <h1 align="center">Hi 👋, I'm Premanshu Ray</h1>
 <h3 align="center">An Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="coding.gif"> 
