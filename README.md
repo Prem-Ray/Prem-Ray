@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://prem-ray.github.io/Portfolio/)
 
-- 📫 How to reach me *premanshuray981@gmail.com*
+- 📫 How to reach me **premanshuray981@gmail.com**
 
 - 📄 Know more about me [Resume](https://drive.google.com/file/d/11m9ofQ8bFC7_)
   
