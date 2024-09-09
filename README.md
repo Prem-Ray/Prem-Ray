@@ -1,10 +1,12 @@
 ![logo](banner.jpg)
 <h1 align="center">Hi 👋, I'm Premanshu Ray</h1>
 <h3 align="center">An Engineering Student</h3>
-<img align="right" alt="coding" width="500" height="300" src="coding.gif"> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-ray&label=Profile%20views&color=0e75b6&style=flat" alt="prem-ray" /> </p>
 
 - 🔭 I’m currently working on **Smart and Portable Health Diagnosis System**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-ray&label=Profile%20views&color=0e75b6&style=flat" alt="prem-ray" /> </p>
+<img align="right" alt="coding" width="500" height="300" src="coding.gif"> 
+
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://prem-ray.github.io/Portfolio/)
 
