@@ -1,7 +1,7 @@
 ![logo](banner.jpg)
 <h1 align="center">Hi 👋, I'm Premanshu Ray</h1>
 <h3 align="center">An Engineering Student</h3>
-<img align="right" alt="coding" width="200" src="coding.gif"> 
+<img align="right" alt="coding" width="400" src="coding.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-ray&label=Profile%20views&color=0e75b6&style=flat" alt="prem-ray" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **premanshuray981@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11m9ofQ8bFC7__YYYPDCstl5DTSQ8kXp_/view?usp=sharing](https://drive.google.com/file/d/11m9ofQ8bFC7__YYYPDCstl5DTSQ8kXp_/view?usp=sharing)
+- 📄 Know about me [Resume](https://drive.google.com/file/d/11m9ofQ8bFC7_)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
