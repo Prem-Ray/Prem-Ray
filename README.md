@@ -13,8 +13,7 @@
 - 📫 How to reach me **premanshuray981@gmail.com**
 
 - 📄 Know about me [Resume](https://drive.google.com/file/d/11m9ofQ8bFC7_)
-
-<h3 align="left">Connect with me:</h3>
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raypremanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raypremanshu" height="30" width="40" /></a>
