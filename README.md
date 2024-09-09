@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-ray&label=Profile%20views&color=0e75b6&style=flat" alt="prem-ray" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://prem-ray.github.io/Portfolio/](https://prem-ray.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prem-ray.github.io/Portfolio/)
 
 - 📫 How to reach me **premanshuray981@gmail.com**
 
