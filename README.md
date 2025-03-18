@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-ray&label=Profile%20views&color=0e75b6&style=flat" alt="prem-ray" /> </p>
 
-- 🔭 I’m currently working on **Smart and Portable Health Diagnosis System**
+- 🔭 I’m currently working on **Smart & Early Abnormality Diagnosis System (IoT-Healthcare)**
 <img align="right" alt="coding" width="500" height="300" src="coding.gif"> 
 
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **premanshuray981@gmail.com**
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1zRQWIaPuBpJ1GBxA_1aXjDsUlLIHuYxl/view)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1gwmZkRrUE_t7x5y6zGYDVeKWi1Pkw_Gb/view)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
