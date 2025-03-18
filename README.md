@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="500" height="300" src="coding.gif"> 
 
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://prem-ray.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://premanshurayportfolio.netlify.app/)
 
 - 📫 How to reach me **premanshuray981@gmail.com**
 
