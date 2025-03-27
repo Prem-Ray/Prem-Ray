@@ -8,11 +8,11 @@
 <img align="right" alt="coding" width="500" height="300" src="coding.gif"> 
 
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://premanshu.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://premanshurayportfolio.netlify.app/)
 
 - 📫 How to reach me **premanshuray981@gmail.com**
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/15_26J_ZFUswUB7QMUf1fBU0mJUyQPY2k/view)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1LOHt9s7CAkmJSMgNBrVaZ61j6kDriys2/view?usp=sharing)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
