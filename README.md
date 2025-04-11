@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **premanshuray981@gmail.com**
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1LOHt9s7CAkmJSMgNBrVaZ61j6kDriys2/view?usp=sharing)
+- 📄 Know more about me [Resume](https://drive.google.com/file/d/1ZYJLbtlIX6RkCv-H-NoG4qEIOBwmDqfQ/view)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
