@@ -13,7 +13,7 @@
 - 📫 How to reach me **premanshuray981@gmail.com**
 
 - 📄 Know more about me <a href="PREMANSHU_RAY_RESUME.pdf" download="Premanshu_Resume.pdf">
-  Download My Resume
+  Resume
 </a>
 
   
