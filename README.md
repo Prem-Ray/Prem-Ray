@@ -12,7 +12,10 @@
 
 - 📫 How to reach me **premanshuray981@gmail.com**
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1ZYJLbtlIX6RkCv-H-NoG4qEIOBwmDqfQ/view)
+- 📄 Know more about me <a href="PREMANSHU_RAY_RESUME.pdf" download="Premanshu_Resume.pdf">
+  Download My Resume
+</a>
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
