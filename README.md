@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-ray&label=Profile%20views&color=0e75b6&style=flat" alt="prem-ray" /> </p>
 
-- 🔭 Enthusiastic Frontend Developer skilled in building responsive and interactive UIs using React.js and Tailwind CSS. Strong foundation in HTML, CSS, JavaScript, and core CS concepts like OOP and Networks. Passionate about clean code, performance, and user-first design. Currently open to opportunities in Web Development and Software Engineering.**
+- 🔭 Enthusiastic Frontend Developer skilled in building responsive and interactive UIs using React.js and Tailwind CSS. Strong foundation in HTML, CSS, JavaScript, C++, SQL and core CS concepts like OOP and Networks. Passionate about clean code, performance, and user-first design. Currently open to opportunities in Web Development and Software Engineering.
 <img align="right" alt="coding" width="500" height="300" src="coding.gif"> 
 
 
